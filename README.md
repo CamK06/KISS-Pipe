@@ -1,2 +1,2 @@
 # KISS Pipe
-h
+THIS CODE SUCKS

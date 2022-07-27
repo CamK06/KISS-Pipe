@@ -1,0 +1,3 @@
+[submodule "LibAPRS"]
+	path = LibAPRS
+	url = https://github.com/CamK06/LibAPRS
